@@ -1,0 +1,45 @@
+main
+{
+    background-color: rgba(174, 239, 235, 0.978);
+}
+
+header
+{
+    text-align: center;
+    background-color: rgba(174, 239, 235, 0.978);
+    color: rgb(0, 0, 0);
+}
+.education
+{
+    background-color: rgb(142, 127, 155);
+    /* text-align: center;   */
+
+}
+.internships
+{
+    color: rgb(255, 240, 211);
+    background-color: cornflowerblue;
+}
+.project
+{
+    background-color:rgb(142, 127, 155);
+}
+.extra
+{
+    background-color: cornflowerblue;
+    color: rgb(253, 253, 253);
+}
+.connectwithme
+{
+    color: black;
+    background-color: rgb(142, 127, 155);
+}
+.itself
+{
+    background-color: cornflowerblue;
+    color: rgb(253, 253, 253);
+}
+.top
+{
+    text-align: right;
+}
